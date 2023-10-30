@@ -81,6 +81,7 @@ dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-evb2-lp4x-v10-linux.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-rk2023.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-rgb30.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-rgb30_trngaje.dtb
+dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-rgb30_trngaje_nodpadhat.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-353v.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-353v-notimingchange.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-353m.dtb

@@ -401,7 +401,7 @@
 		/*
 			autorepeat;
 		*/
-/*
+
 		sw1 {
 		        gpios = <&gpio3 RK_PA3 GPIO_ACTIVE_LOW>;
 		        label = "GPIO DPAD-UP";
@@ -422,7 +422,8 @@
 		        label = "GPIO DPAD-RIGHT";
 		        linux,code = <BTN_DPAD_RIGHT>;
 		};
-*/
+
+/*
 		sw1 {
 				gpios = <&gpio3 RK_PA3 GPIO_ACTIVE_LOW>;
 				label = "GPIO DPAD-UP";
@@ -451,7 +452,7 @@
 				linux,input-type = <EV_ABS>;
 				linux,input-value = <1>; 
 		};
-
+*/
 		sw5 {
 		        gpios = <&gpio3 RK_PC3 GPIO_ACTIVE_LOW>;
 		        label = "GPIO KEY BTN-A";
